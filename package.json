@@ -75,7 +75,12 @@
     "vite": "7.3.6",
     "form-data": "4.0.6",
     "@babel/core": "7.29.6",
-    "dompurify": "3.4.16"
+    "dompurify": "3.4.16",
+    "katex": "0.19.0",
+    "source-map-js": "1.2.2",
+    "proxy-addr": "2.0.8",
+    "postcss-selector-parser": "7.1.6",
+    "fast-copy": "4.1.2"
   },
   "pnpm": {
     "patchedDependencies": {
@@ -108,7 +113,12 @@
       "vite": "7.3.6",
       "form-data": "4.0.6",
       "@babel/core": "7.29.6",
-      "dompurify": "3.4.16"
+      "dompurify": "3.4.16",
+      "katex": "0.19.0",
+      "source-map-js": "1.2.2",
+      "proxy-addr": "2.0.8",
+      "postcss-selector-parser": "7.1.6",
+      "fast-copy": "4.1.2"
     }
   }
 }
